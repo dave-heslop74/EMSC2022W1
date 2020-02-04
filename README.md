@@ -1,1 +1,1 @@
-#EMSC2022W1
+## This is the Jupyter Notebook for EMSC2022 - Week 1
